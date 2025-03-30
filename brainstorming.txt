@@ -4,3 +4,21 @@ Overview:
 - Use an AI image generation API (ChatGPT/DALL-E most likely) to create poster designs from text prompts given by the user
 - Provide idea and vibe suggestions for users who need inspiration or aren't exactly sure of what they want to create
 - Users can order and have have the poster shipped to them
+
+Core Features:
+--------------
+1. Poster Creation:
+   - Input text prompts for image generation
+   - Select or input keywords to influence design style and vibe
+   - Option to use suggested themes
+
+3. Inspiration & Idea Generation:
+   - Suggestions based on keywords or vague ideas
+   - Inspiration gallery with sample posters and design elements
+   - Option to mix and match design styles
+
+4. Order & Shipping:
+   - Preview final poster before ordering
+   - Offer different sizes/frames
+   - Integration with a shipping/logistics service
+   - Manage order history and user profiles
