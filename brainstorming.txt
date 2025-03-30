@@ -22,3 +22,21 @@ Core Features:
    - Offer different sizes/frames
    - Integration with a shipping/logistics service
    - Manage order history and user profiles
+
+User Flow:
+----------
+1. Landing Page:
+   - Introduction and call-to-action to start creating the poster
+
+2. Poster Creation Interface:
+   - Input area for text prompts
+   - Option to select from vibe/theme suggestions
+   - Button to generate the initial design
+   - Ability to reiterate and tweak design until perfect
+
+4. Order & Checkout:
+   - Final preview screen with ordering options of sizes and frames
+   - Shipping and payment details entry
+
+5. Confirmation:
+   - Order summary and confirmation email
