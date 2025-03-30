@@ -1,0 +1,6 @@
+Overview:
+---------
+- Allow users to create custom posters
+- Use an AI image generation API (ChatGPT/DALL-E most likely) to create poster designs from text prompts given by the user
+- Provide idea and vibe suggestions for users who need inspiration or aren't exactly sure of what they want to create
+- Users can order and have have the poster shipped to them
